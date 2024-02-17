@@ -22,31 +22,45 @@ useHead({
     script: [
         {
             src: '/js/modernizr.min.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: true
         },
         {
             src: '/js/jquery.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         },
         {
             src: '/js/bootstrap.min.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         },
         {
             src: '/js/slick.min.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         },
         {
             src: '/js/tweenmax.min.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         },
         {
             src: '/js/js.cookie.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         },
         {
             src: '/js/jquery.style.switcher.js',
-            type: 'text/javascript'
+            type: 'text/javascript',
+            async: true,
+            defer: false
         }
     ],
 })
