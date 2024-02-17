@@ -34,8 +34,8 @@
                     <div class="col-lg-2 col-md-6 col-sm-6 col-xl-4">
                         <div class="logo text-center">
                             <a href="index.html">
-                                <img class="dark-logo" src="~/assets/images/logo/logo-black.png" alt="Blogar logo">
-                                <img class="light-logo" src="~/assets/images/logo/logo-white2.png" alt="Blogar logo">
+                                <img class="dark-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-black.png" alt="Blogar logo">
+                                <img class="light-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-white2.png" alt="Blogar logo">
                             </a>
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-01.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-01.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -245,7 +245,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-02.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-02.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -269,7 +269,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-03.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-03.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -293,7 +293,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -327,7 +327,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -350,7 +350,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-03.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-03.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -373,7 +373,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-02.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-02.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -396,7 +396,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -430,7 +430,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -453,7 +453,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-03.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-03.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -476,7 +476,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-02.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-02.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -499,7 +499,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -533,7 +533,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-01.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-01.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -556,7 +556,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -580,7 +580,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-03.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-03.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -604,7 +604,7 @@
                                                                     <div class="content-block image-rounded">
                                                                         <div class="post-thumbnail mb--20">
                                                                             <a href="post-details.html">
-                                                                                <img class="w-100" src="~/assets/images/others/mega-post-04.jpg" alt="Post Images">
+                                                                                <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/mega-post-04.jpg" alt="Post Images">
                                                                             </a>
                                                                         </div>
                                                                         <div class="post-content">
@@ -722,7 +722,7 @@
                             <ul class="metabar-block">
                                 <li class="icon"><a href="#"><i class="fas fa-bookmark"></i></a></li>
                                 <li class="icon"><a href="#"><i class="fas fa-bell"></i></a></li>
-                                <li><a href="#"><img src="~/assets/images/others/author.png" alt="Author Images"></a></li>
+                                <li><a href="#"><img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/others/author.png" alt="Author Images"></a></li>
                             </ul>
                             <!-- Start Hamburger Menu  -->
                             <div class="hamburger-menu d-block d-xl-none">
@@ -744,8 +744,8 @@
                 <div class="mobile-menu-top">
                     <div class="logo">
                         <a href="index.html">
-                            <img class="dark-logo" src="~/assets/images/logo/logo-black.png" alt="Logo Images">
-                            <img class="light-logo" src="~/assets/images/logo/logo-white2.png" alt="Logo Images">
+                            <img class="dark-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-black.png" alt="Logo Images">
+                            <img class="light-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-white2.png" alt="Logo Images">
                         </a>
                     </div>
                     <div class="mobile-close">
@@ -813,7 +813,7 @@
                         <div class="content-block post-grid post-grid-large">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-seo-grid-01.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-seo-grid-01.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-grid-content">
@@ -831,7 +831,7 @@
                                     <div class="post-meta-wrapper">
                                         <div class="post-meta">
                                             <div class="post-author-avatar border-rounded">
-                                                <img src="~/assets/images/post-images/author/author-image-2.png" alt="Author Images">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/author/author-image-2.png" alt="Author Images">
                                             </div>
                                             <div class="content">
                                                 <h6 class="post-author-name">
@@ -864,7 +864,7 @@
                         <div class="content-block post-medium post-medium-border">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-seo-sm-01.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-seo-sm-01.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -885,7 +885,7 @@
                         <div class="content-block post-medium post-medium-border">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-seo-sm-02.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-seo-sm-02.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -906,7 +906,7 @@
                         <div class="content-block post-medium post-medium-border">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-seo-sm-03.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-seo-sm-03.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -927,7 +927,7 @@
                         <div class="content-block post-medium post-medium-border">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-seo-sm-04.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-seo-sm-04.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -957,7 +957,7 @@
                         <div class="axil-banner mb--30">
                             <div class="thumbnail">
                                 <a href="#">
-                                    <img class="w-100" src="~/assets/images/add-banner/banner-03.png" alt="Banner Images">
+                                    <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/add-banner/banner-03.png" alt="Banner Images">
                                 </a>
                             </div>
                         </div>
@@ -1011,7 +1011,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-09.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-09.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1036,7 +1036,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-10.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-10.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1060,7 +1060,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-11.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-11.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1086,7 +1086,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1117,7 +1117,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-02.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-02.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1142,7 +1142,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-03.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-03.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1167,7 +1167,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1192,7 +1192,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1223,7 +1223,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-11.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-11.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1248,7 +1248,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-10.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-10.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1273,7 +1273,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-09.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-09.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1298,7 +1298,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-08.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-08.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1329,7 +1329,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-03.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-03.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1354,7 +1354,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-02.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-02.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1379,7 +1379,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1404,7 +1404,7 @@
                                             </div>
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-column-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-column-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                         </div>
@@ -1455,7 +1455,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-10.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-10.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1480,7 +1480,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-11.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-11.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1507,7 +1507,7 @@
                                         <div class="content-block post-grid post-grid-large mt--30">
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-grid-12.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-12.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                             <div class="post-grid-content">
@@ -1525,7 +1525,7 @@
                                                     <div class="post-meta-wrapper">
                                                         <div class="post-meta">
                                                             <div class="post-author-avatar border-rounded">
-                                                                <img src="~/assets/images/post-images/author/author-image-2.png" alt="Author Images">
+                                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/author/author-image-2.png" alt="Author Images">
                                                             </div>
                                                             <div class="content">
                                                                 <h6 class="post-author-name">
@@ -1567,7 +1567,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-02.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-02.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1594,7 +1594,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-03.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-03.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1624,7 +1624,7 @@
                                         <div class="content-block post-grid post-grid-large mt--30">
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-grid-01.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-01.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                             <div class="post-grid-content">
@@ -1643,7 +1643,7 @@
                                                     <div class="post-meta-wrapper">
                                                         <div class="post-meta">
                                                             <div class="post-author-avatar border-rounded">
-                                                                <img src="~/assets/images/post-images/author/author-image-2.png" alt="Author Images">
+                                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/author/author-image-2.png" alt="Author Images">
                                                             </div>
                                                             <div class="content">
                                                                 <h6 class="post-author-name">
@@ -1686,7 +1686,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-10.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-10.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1713,7 +1713,7 @@
                                                 <div class="content-block post-grid mt--30">
                                                     <div class="post-thumbnail">
                                                         <a href="post-details.html">
-                                                            <img src="~/assets/images/post-images/post-grid-11.jpg" alt="Post Images">
+                                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-11.jpg" alt="Post Images">
                                                         </a>
                                                     </div>
                                                     <div class="post-grid-content">
@@ -1743,7 +1743,7 @@
                                         <div class="content-block post-grid post-grid-large mt--30">
                                             <div class="post-thumbnail">
                                                 <a href="post-details.html">
-                                                    <img src="~/assets/images/post-images/post-grid-12.jpg" alt="Post Images">
+                                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-grid-12.jpg" alt="Post Images">
                                                 </a>
                                             </div>
                                             <div class="post-grid-content">
@@ -1762,7 +1762,7 @@
                                                     <div class="post-meta-wrapper">
                                                         <div class="post-meta">
                                                             <div class="post-author-avatar border-rounded">
-                                                                <img src="~/assets/images/post-images/author/author-image-2.png" alt="Author Images">
+                                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/author/author-image-2.png" alt="Author Images">
                                                             </div>
                                                             <div class="content">
                                                                 <h6 class="post-author-name">
@@ -1818,7 +1818,7 @@
                         <div class="content-block post-default image-rounded mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/post-images/post-dark-01.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-dark-01.jpg" alt="Post Images">
                                 </a>
                                 <a class="video-popup position-top-center" href="post-details.html"><span class="play-icon"></span></a>
                             </div>
@@ -1868,7 +1868,7 @@
                                 <div class="content-block post-default image-rounded mt--30">
                                     <div class="post-thumbnail">
                                         <a href="post-details.html">
-                                            <img src="~/assets/images/post-images/post-dark-04.jpg" alt="Post Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-dark-04.jpg" alt="Post Images">
                                         </a>
                                         <a class="video-popup size-medium position-top-center" href="post-details.html"><span class="play-icon"></span></a>
                                     </div>
@@ -1894,7 +1894,7 @@
                                 <div class="content-block post-default  image-rounded mt--30">
                                     <div class="post-thumbnail">
                                         <a href="post-details.html">
-                                            <img src="~/assets/images/post-images/post-dark-03.jpg" alt="Post Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-dark-03.jpg" alt="Post Images">
                                         </a>
                                         <a class="video-popup size-medium position-top-center" href="post-details.html"><span class="play-icon"></span></a>
                                     </div>
@@ -1920,7 +1920,7 @@
                                 <div class="content-block post-default image-rounded mt--30">
                                     <div class="post-thumbnail">
                                         <a href="post-details.html">
-                                            <img src="~/assets/images/post-images/post-dark-04.jpg" alt="Post Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-dark-04.jpg" alt="Post Images">
                                         </a>
                                         <a class="video-popup size-medium position-top-center" href="post-details.html"><span class="play-icon"></span></a>
                                     </div>
@@ -1946,7 +1946,7 @@
                                 <div class="content-block post-default image-rounded mt--30">
                                     <div class="post-thumbnail">
                                         <a href="post-details.html">
-                                            <img src="~/assets/images/post-images/post-dark-05.jpg" alt="Post Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/post-dark-05.jpg" alt="Post Images">
                                         </a>
                                         <a class="video-popup size-medium position-top-center" href="post-details.html"><span class="play-icon"></span></a>
                                     </div>
@@ -1998,7 +1998,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-06.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-06.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Search Engines</h5>
@@ -2013,7 +2013,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-07.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-07.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">SEO</h5>
@@ -2028,7 +2028,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-08.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-08.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Content</h5>
@@ -2043,7 +2043,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-09.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-09.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Marketing</h5>
@@ -2058,7 +2058,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-10.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-10.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Video</h5>
@@ -2073,7 +2073,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-06.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-06.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Food &#38; Drink</h5>
@@ -2088,7 +2088,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-07.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-07.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Search Engines</h5>
@@ -2103,7 +2103,7 @@
                                 <div class="inner">
                                     <a href="#">
                                         <div class="thumbnail">
-                                            <img src="~/assets/images/small-images/blog-sm-08.jpg" alt="post categories images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-08.jpg" alt="post categories images">
                                         </div>
                                         <div class="content">
                                             <h5 class="title">Video</h5>
@@ -2129,7 +2129,7 @@
                         <div class="axil-banner">
                             <div class="thumbnail">
                                 <a href="#">
-                                    <img class="w-100" src="~/assets/images/add-banner/banner-01.png" alt="Banner Images">
+                                    <img class="w-100" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/add-banner/banner-01.png" alt="Banner Images">
                                 </a>
                             </div>
                         </div>
@@ -2137,7 +2137,7 @@
                         <div class="content-block post-list-view is-active mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/small-images/post-seo-list-01.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/post-seo-list-01.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -2182,7 +2182,7 @@
                         <div class="content-block post-list-view axil-control mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/small-images/post-seo-list-02.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/post-seo-list-02.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -2227,7 +2227,7 @@
                         <div class="content-block post-list-view axil-control mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/small-images/post-seo-list-03.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/post-seo-list-03.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -2272,7 +2272,7 @@
                         <div class="content-block post-list-view axil-control mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/small-images/post-seo-list-02.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/post-seo-list-02.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -2317,7 +2317,7 @@
                         <div class="content-block post-list-view axil-control mt--30">
                             <div class="post-thumbnail">
                                 <a href="post-details.html">
-                                    <img src="~/assets/images/small-images/post-seo-list-05.jpg" alt="Post Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/post-seo-list-05.jpg" alt="Post Images">
                                 </a>
                             </div>
                             <div class="post-content">
@@ -2369,7 +2369,7 @@
                                     <li class="cat-item">
                                         <a href="#" class="inner">
                                             <div class="thumbnail">
-                                                <img src="~/assets/images/post-images/category-image-01.jpg" alt="">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/category-image-01.jpg" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5 class="title">Tech</h5>
@@ -2379,7 +2379,7 @@
                                     <li class="cat-item">
                                         <a href="#" class="inner">
                                             <div class="thumbnail">
-                                                <img src="~/assets/images/post-images/category-image-02.jpg" alt="">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/category-image-02.jpg" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5 class="title">Style</h5>
@@ -2389,7 +2389,7 @@
                                     <li class="cat-item">
                                         <a href="#" class="inner">
                                             <div class="thumbnail">
-                                                <img src="~/assets/images/post-images/category-image-03.jpg" alt="">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/category-image-03.jpg" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5 class="title">Travel</h5>
@@ -2399,7 +2399,7 @@
                                     <li class="cat-item">
                                         <a href="#" class="inner">
                                             <div class="thumbnail">
-                                                <img src="~/assets/images/post-images/category-image-04.jpg" alt="">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/post-images/category-image-04.jpg" alt="">
                                             </div>
                                             <div class="content">
                                                 <h5 class="title">Food</h5>
@@ -2432,7 +2432,7 @@
                                     <div class="content-block post-medium mb--20">
                                         <div class="post-thumbnail">
                                             <a href="post-details.html">
-                                                <img src="~/assets/images/small-images/blog-sm-01.jpg" alt="Post Images">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-01.jpg" alt="Post Images">
                                             </a>
                                         </div>
                                         <div class="post-content">
@@ -2452,7 +2452,7 @@
                                     <div class="content-block post-medium mb--20">
                                         <div class="post-thumbnail">
                                             <a href="post-details.html">
-                                                <img src="~/assets/images/small-images/blog-sm-02.jpg" alt="Post Images">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-02.jpg" alt="Post Images">
                                             </a>
                                         </div>
                                         <div class="post-content">
@@ -2472,7 +2472,7 @@
                                     <div class="content-block post-medium mb--20">
                                         <div class="post-thumbnail">
                                             <a href="post-details.html">
-                                                <img src="~/assets/images/small-images/blog-sm-03.jpg" alt="Post Images">
+                                                <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/blog-sm-03.jpg" alt="Post Images">
                                             </a>
                                         </div>
                                         <div class="post-content">
@@ -2516,32 +2516,32 @@
                                 <ul class="instagram-post-list-wrapper">
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-01.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-01.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-02.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-02.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-03.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-03.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-04.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-04.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-05.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-05.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                     <li class="instagram-post-list">
                                         <a href="#">
-                                            <img src="~/assets/images/small-images/instagram-06.jpg" alt="Instagram Images">
+                                            <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-06.jpg" alt="Instagram Images">
                                         </a>
                                     </li>
                                 </ul>
@@ -2590,37 +2590,37 @@
                         <ul class="instagram-post-list">
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-06.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-06.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-07.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-07.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-08.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-08.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-09.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-09.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-10.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-10.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
                             <li class="single-post">
                                 <a href="#">
-                                    <img src="~/assets/images/small-images/instagram-md-11.jpg" alt="Instagram Images">
+                                    <img src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/small-images/instagram-md-11.jpg" alt="Instagram Images">
                                     <span class="instagram-button"><i class="fab fa-instagram"></i></span>
                                 </a>
                             </li>
@@ -2664,8 +2664,8 @@
                             <div class="copyright-left">
                                 <div class="logo">
                                     <a href="index.html">
-                                        <img class="dark-logo" src="~/assets/images/logo/logo-black.png" alt="Logo Images">
-                                        <img class="light-logo" src="~/assets/images/logo/logo-white2.png" alt="Logo Images">
+                                        <img class="dark-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-black.png" alt="Logo Images">
+                                        <img class="light-logo" src="https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/assets/images/logo/logo-white2.png" alt="Logo Images">
                                     </a>
                                 </div>
                                 <ul class="mainmenu justify-content-start">
