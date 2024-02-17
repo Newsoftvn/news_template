@@ -23,44 +23,37 @@ useHead({
         {
             src: '/js/modernizr.min.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/jquery.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/bootstrap.min.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/slick.min.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/tweenmax.min.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/js.cookie.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         },
         {
             src: '/js/jquery.style.switcher.js',
             type: 'text/javascript',
-            async: true,
-            defer: true
+            tagPosition: 'bodyClose'
         }
     ],
 })
