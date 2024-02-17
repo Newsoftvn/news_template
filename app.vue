@@ -26,32 +26,32 @@ useHead({
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/jquery.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/jquery.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/bootstrap.min.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/bootstrap.min.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/slick.min.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/slick.min.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/tweenmax.min.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/tweenmax.min.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/js.cookie.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/js.cookie.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         },
         {
-            src: '/js/jquery.style.switcher.js',
+            src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/jquery.style.switcher.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
         }
