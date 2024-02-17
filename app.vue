@@ -29,17 +29,17 @@ useHead({
             src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/jquery.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
-        },
+        },/*
         {
             src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/bootstrap.min.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
-        },
+        },*/
         {
             src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/slick.min.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
-        },
+        },/*
         {
             src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/tweenmax.min.js',
             type: 'text/javascript',
@@ -54,7 +54,7 @@ useHead({
             src: 'https://pub-deae3520bc334838a6b73fff60a01268.r2.dev/js/jquery.style.switcher.js',
             type: 'text/javascript',
             tagPosition: 'bodyClose'
-        }
+        }*/
     ],
 })
 
