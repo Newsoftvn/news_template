@@ -30,37 +30,37 @@ useHead({
             src: '/js/jquery.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         },
         {
             src: '/js/bootstrap.min.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         },
         {
             src: '/js/slick.min.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         },
         {
             src: '/js/tweenmax.min.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         },
         {
             src: '/js/js.cookie.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         },
         {
             src: '/js/jquery.style.switcher.js',
             type: 'text/javascript',
             async: true,
-            defer: false
+            defer: true
         }
     ],
 })
